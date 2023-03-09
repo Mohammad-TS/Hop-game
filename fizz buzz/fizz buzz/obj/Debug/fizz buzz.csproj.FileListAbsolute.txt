@@ -1,0 +1,8 @@
+C:\Users\Windows 11®\source\repos\Hop-game\fizz buzz\fizz buzz\bin\Debug\fizz buzz.exe.config
+C:\Users\Windows 11®\source\repos\Hop-game\fizz buzz\fizz buzz\bin\Debug\fizz buzz.exe
+C:\Users\Windows 11®\source\repos\Hop-game\fizz buzz\fizz buzz\bin\Debug\fizz buzz.pdb
+C:\Users\Windows 11®\source\repos\Hop-game\fizz buzz\fizz buzz\obj\Debug\fizz buzz.csproj.AssemblyReference.cache
+C:\Users\Windows 11®\source\repos\Hop-game\fizz buzz\fizz buzz\obj\Debug\fizz buzz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 11®\source\repos\Hop-game\fizz buzz\fizz buzz\obj\Debug\fizz buzz.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11®\source\repos\Hop-game\fizz buzz\fizz buzz\obj\Debug\fizz buzz.exe
+C:\Users\Windows 11®\source\repos\Hop-game\fizz buzz\fizz buzz\obj\Debug\fizz buzz.pdb
