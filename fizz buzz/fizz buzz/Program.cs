@@ -28,7 +28,8 @@ namespace fizz_buzz
                 {
                     Console.Write(i + " ");
                 }
-                Console.WriteLine();
+
+                Console.WriteLine("tamam tamam");
             }
 
             Console.ReadKey();
